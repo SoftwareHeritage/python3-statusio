@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+statusio/__init__.py
+statusio/api.py
+statusio_python.egg-info/PKG-INFO
+statusio_python.egg-info/SOURCES.txt
+statusio_python.egg-info/dependency_links.txt
+statusio_python.egg-info/requires.txt
+statusio_python.egg-info/top_level.txt
