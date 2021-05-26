@@ -1,3 +1,9 @@
+statusio-python (1.2.0-2+swh1) unstable-swh; urgency=medium
+
+  * Force complete rebuild
+
+ -- Vincent Sellier <vincent.sellier@softwareheritage.org>  Wed, 26 May 2021 14:17:36 +0200
+
 statusio-python (1.2.0-1+swh1) unstable-swh; urgency=medium
 
   * Initial release.
