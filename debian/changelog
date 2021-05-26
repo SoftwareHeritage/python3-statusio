@@ -1,0 +1,5 @@
+statusio-python (1.2.0-1+swh1) unstable-swh; urgency=medium
+
+  * Initial release.
+
+ -- Vincent Sellier <vincent.sellier@softwareheritage.org>  Wed, 26 May 2021 09:07:38 +0000

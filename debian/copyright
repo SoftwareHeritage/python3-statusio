@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: statusio-python
+Source: https://github.com/ClearcodeHQ/pytest-redis/
+
+Files: *
+Copyright: Copyright (C) 2016 by Clearcode <http://clearcode.cc>
+License: GPL-3

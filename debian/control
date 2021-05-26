@@ -1,0 +1,22 @@
+Source: statusio-python
+Section: python
+Priority: optional
+Maintainer: Software Heritage Developers <swh-devel@inria.fr>
+Build-Depends: 2to3,
+               debhelper (>=9),
+               dh-python,
+               python3-all,
+               python3-distutils,
+               python3-future,
+               python3-requests,
+               python3-setuptools
+Standards-Version: 4.5.0
+X-Python3-Version: >= 3.6
+
+Package: python3-statusio
+Architecture: all
+Depends: python3-future,
+         python3-requests,
+         ${misc:Depends}, 
+         ${python3:Depends}
+Description: Python package for Status.io 
